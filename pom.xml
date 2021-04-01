@@ -87,11 +87,9 @@
         <spring.version>5.1.8.RELEASE</spring.version>
         <spring.boot.version>2.1.6.RELEASE</spring.boot.version>
         
-        <properties>
-  <sonar.projectKey>bart-blommaerts_java-dynamic-sqs-listener</sonar.projectKey>
-  <sonar.organization>bart-blommaerts</sonar.organization>
-  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-</properties>
+          <sonar.projectKey>bart-blommaerts_java-dynamic-sqs-listener</sonar.projectKey>
+          <sonar.organization>bart-blommaerts</sonar.organization>
+          <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
     <dependencies>
